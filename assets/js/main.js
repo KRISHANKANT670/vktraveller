@@ -1,10 +1,4 @@
-/**
-* Template Name: OnePage
-* Updated: Feb 21 2024 with Bootstrap v5.3.2
-* Template URL: https://bootstrapmade.com/onepage-multipurpose-bootstrap-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
+
 
 (function() {
   "use strict";
