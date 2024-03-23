@@ -220,7 +220,7 @@
 
         <div class="section-title">
           <h2>Testimonials</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>These testimonials from our community of car owners and renters highlight the trust, convenience, and satisfaction that DriveLink brings to every transaction.</p>
         </div>
 
         <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
@@ -230,12 +230,12 @@
               <div class="testimonial-item">
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
+                  Putting my car on VK Transportation was one of the best decisions I've made this year. The extra income is a huge help, and knowing that my car isn't just sitting idle makes me feel good. The entire process was smooth, and the support from team has been outstanding. Highly recommend it to any car owner looking to make their vehicle work for them.
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
-                <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-                <h3>Saul Goodman</h3>
-                <h4>Ceo &amp; Founder</h4>
+                <!-- <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt=""> -->
+                <h3>Amit Kumar</h3>
+                <h4>Car Owner</h4>
               </div>
             </div><!-- End testimonial item -->
 
@@ -243,12 +243,12 @@
               <div class="testimonial-item">
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
+                  I needed a spacious van for a family trip, and VK Tranportation offered multiple options at very competitive prices. The vehicle we chose was in excellent condition and made our trip comfortable and enjoyable. What I love most about this is the ease of use and the peace of mind it offers, from booking to returning the car. 
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
-                <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
-                <h3>Sara Wilsson</h3>
-                <h4>Designer</h4>
+                <!-- <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt=""> -->
+                <h3>Shubham Verma</h3>
+                <h4>Care Renter</h4>
               </div>
             </div><!-- End testimonial item -->
 
@@ -256,12 +256,12 @@
               <div class="testimonial-item">
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
+                  I was a bit skeptical about listing my second car online, but its secure platform and their comprehensive insurance coverage put my fears to rest. It’s been a few months now, and the experience has been incredibly positive. It's wonderful to contribute to a community where my car can help someone out when they need it.
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
-                <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
-                <h3>Jena Karlis</h3>
-                <h4>Store Owner</h4>
+                <!-- <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt=""> -->
+                <h3>Pritam Chaudhary</h3>
+                <h4>Car Owner</h4>
               </div>
             </div><!-- End testimonial item -->
 
@@ -269,12 +269,12 @@
               <div class="testimonial-item">
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
+                  Finding a reliable and well-maintained car for a last-minute weekend getaway used to be a hassle, but thanks to VK Transportation, it’s now a breeze. The variety of cars available is fantastic, and the booking process is so straightforward. DriveLink has definitely become my go-to for all my car rental needs.
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
-                <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
-                <h3>Matt Brandon</h3>
-                <h4>Freelancer</h4>
+                <!-- <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt=""> -->
+                <h3>Mahendra Kumar Meena</h3>
+                <h4>Car Renter</h4>
               </div>
             </div><!-- End testimonial item -->
 
@@ -282,12 +282,12 @@
               <div class="testimonial-item">
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
+                  I was initially worried about the safety and maintenance of my car when I thought about renting it out. However, verification process for renters and their comprehensive insurance coverage have put all my worries to rest.
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
-                <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
-                <h3>John Larson</h3>
-                <h4>Entrepreneur</h4>
+                <!-- <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt=""> -->
+                <h3>Rohan K Mehta</h3>
+                <h4>Car Owner</h4>
               </div>
             </div><!-- End testimonial item -->
 
@@ -315,8 +315,8 @@
                 </svg>
                 <i class="bx bxl-dribbble"></i>
               </div>
-              <h4><a href="">Wide Selection: </a></h4>
-              <p>From compact cars to luxury vehicles and RVs, our diverse fleet means you’ll find the perfect vehicle for any occasion.</p>
+              <h4><a href="">Personal Vehicle Rental:</a></h4>
+              <p> List your personal car for rent when it's not in use, turning idle assets into an earning opportunity.</p>
 
             </div>
           </div>
@@ -343,8 +343,9 @@
                 </svg>
                 <i class="bx bx-tachometer"></i>
               </div>
-              <h4><a href="">Magni Dolores</a></h4>
-              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+              <h4><a href="">Convenience: </a></h4>
+              <p>Browse, book, and access vehicles directly through our platform, with 24/7 customer support to assist you at every step.</p>
+
             </div>
           </div>
 
@@ -356,8 +357,8 @@
                 </svg>
                 <i class="bx bx-layer"></i>
               </div>
-              <h4><a href="">Nemo Enim</a></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+              <h4><a href="">Commitment to Quality:</a></h4>
+              <p> All vehicles on our platform are thoroughly inspected and maintained to ensure safety, reliability, and comfort.</p>
             </div>
           </div>
 
@@ -369,8 +370,8 @@
                 </svg>
                 <i class="bx bx-slideshow"></i>
               </div>
-              <h4><a href="">Dele Cardo</a></h4>
-              <p>Quis consequatur saepe eligendi voluptatem consequatur dolor consequuntur</p>
+              <h4><a href="">Business Rentals:</a></h4>
+              <p> We offer tailored services for businesses requiring vehicles for corporate events, client transportation, or operational needs.</p>
             </div>
           </div>
 
@@ -382,8 +383,8 @@
                 </svg>
                 <i class="bx bx-arch"></i>
               </div>
-              <h4><a href="">Divera Don</a></h4>
-              <p>Modi nostrum vel laborum. Porro fugit error sit minus sapiente sit aspernatur</p>
+              <h4><a href="">Wide Selection: </a></h4>
+              <p>From compact cars to luxury vehicles and RVs, our diverse fleet means you’ll find the perfect vehicle for any occasion.</p>
             </div>
           </div>
 
